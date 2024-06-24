@@ -1,0 +1,11 @@
+/target/
+*.iml
+/.settings/
+/bin/
+.project
+.classpath
+/.checkstyle
+/.factorypath
+/.springBeans
+.DS_Store
+/pom.xml.versionsBackup
